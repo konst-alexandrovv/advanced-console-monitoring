@@ -16,9 +16,9 @@
 
 ```bash
 git clone https://github.com/konst-alexandrovv/advanced-console-monitoring/
-cd monitoring-tools
-chmod +x install.sh
-./install.sh
+cd advanced-console-monitoring
+chmod +x monitor_console.sh
+./monitor_console.sh
 ```
 
 ## Tools / Инструменты
