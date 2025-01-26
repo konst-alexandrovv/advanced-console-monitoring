@@ -1,6 +1,6 @@
 # Advanced Monitoring Tools / Продвинутые инструменты мониторинга
 
-A collection of advanced shell scripts for system monitoring and administration.
+**A collection of advanced shell scripts for system monitoring and administration.**
 Набор продвинутых скриптов для мониторинга и администрирования системы.
 
 ## Features / Возможности
