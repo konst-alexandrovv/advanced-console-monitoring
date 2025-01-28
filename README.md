@@ -15,7 +15,7 @@
 ## Installation / Установка
 
 ```bash
-git clone https://github.com/konst-alexandrovv/advanced-console-monitoring/
+git clone https://github.com/konst-alexandrovv/advanced-console-monitoring.git
 cd advanced-console-monitoring
 chmod +x monitor_console.sh
 ./monitor_console.sh
